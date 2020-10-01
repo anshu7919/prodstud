@@ -1,7 +1,7 @@
 PRODSTUD
 ========
 
-Wat?
+What?
 ----
 This repository is an experiment to use Flask, Mako, and Bootstrap to make a
 website for the Production Studio Course at RIT. This repository is a work in
